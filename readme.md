@@ -1,4 +1,4 @@
-# Web Application Mimicking Google Sheets
+# Google Sheets Clone
 
 ## Features
 
