@@ -67,7 +67,7 @@
 
 ## Project Structure
 ```
-google-sheets-clone/
+Google-Sheets-Clone/
 │
 |
 |
