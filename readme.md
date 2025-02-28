@@ -1,7 +1,5 @@
 # Google Sheets Clone 
 
-<a href="https://google-sheets-clone-project.vercel.app/">Live Link</a>
-
 ## Features
 
 ### 1. Spreadsheet Interface
